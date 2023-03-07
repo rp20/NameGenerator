@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NameGenerator</string>
+    <string name="main_activity_name">Baby Name Generator</string>
+    <string name="choose_gender">Please choose your baby gender:</string>
+    <string name="gender_male">Male</string>
+    <string name="gender_female">Female</string>
+    <string name="generated_name_description">Your baby name will be</string>
+</resources>
